@@ -12,7 +12,7 @@ export default function App() {
         </a>{" "}
         and is{" "}
         <a
-          href="https://github.com/KellyW-coder/react-weatherapp-2021"
+          href="https://github.com/KellyW-coder/react-weather-search-v2"
           target="_blank"
           rel="noreferrer"
         >
