@@ -6,7 +6,7 @@ export default function App() {
       <h1>Weather Search app</h1>
       <footer>
         This project was coded by{" "}
-        <a href="Https://www.kccd.co.za" target="_blank">
+        <a href="Https://www.kccd.co.za" target="_blank" rel="noreferrer">
           {" "}
           Kelly Williams
         </a>{" "}
@@ -14,6 +14,7 @@ export default function App() {
         <a
           href="https://github.com/KellyW-coder/react-weatherapp-2021"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
