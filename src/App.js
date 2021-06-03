@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <div class="containter">
         <h1>Weather Search app</h1>
-        <Weather />
+        <Weather defaultCity="Johannesburg" />
         <footer>
           This project was coded by{" "}
           <a href="Https://www.kccd.co.za" target="_blank" rel="noreferrer">
