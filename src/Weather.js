@@ -58,9 +58,6 @@ export default function Weather(props) {
             >
               Go {`>`}
             </button>
-            <button type="button" className="btn btn-dark" id="current-loc">
-              Current location
-            </button>
           </div>
         </form>
         <WeatherInfo data={weatherData} />
@@ -69,6 +66,6 @@ export default function Weather(props) {
     );
   } else {
     search();
-    return <Loader type="ThreeDots" color="blue" height={50} width={50} />;
+    return <Loader type="ThreeDots" color="#0DCAF0" height={50} width={50} />;
   }
 }

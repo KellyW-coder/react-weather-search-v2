@@ -6,6 +6,7 @@
   padding: 16px;
   margin: 0 auto;
   max-width: 600px;
+  background-color: #ffffff;
 }
 
 .Weather form {
@@ -32,8 +33,6 @@
 }
 
 .Weather canvas {
-  height: 64px;
-  width: 64px;
   float: left;
   margin-right: 10px;
 }
