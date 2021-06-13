@@ -16,6 +16,8 @@
   text-align: center;
   font-size: 10px;
   margin: 20 auto;
+  background-color: rgb(255, 255, 255, 0.9);
+  background-size: contain;
 }
 
 .App a {
