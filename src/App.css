@@ -1,14 +1,15 @@
 .App {
-  margin: 30px auto;
-  background-image: url("./images/42.jpg");
+  margin: 20px auto;
+  background-image: url("./images/geometric_bgrnd.jpg");
   background-size: cover;
   height: 100%;
   overflow: hidden;
-  background-blend-mode: multiply;
 }
 
 .App h1 {
   text-align: center;
+  background-color: rgb(255, 255, 255, 0.9);
+  margin: 20 auto;
 }
 
 .App footer {
