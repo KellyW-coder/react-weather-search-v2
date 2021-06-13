@@ -1,9 +1,5 @@
 .App {
   margin: 20px auto;
-  background-image: url("./images/geometric_bgrnd.jpg");
-  background-size: cover;
-  height: 100%;
-  overflow: hidden;
 }
 
 .App h1 {

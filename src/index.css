@@ -1,1 +1,8 @@
+html {
+  min-height: 100%;
+}
 
+body {
+  background-image: url("./images/geometric_bgrnd.jpg");
+  background-size: cover;
+}
