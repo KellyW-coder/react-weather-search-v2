@@ -1,5 +1,10 @@
 .App {
   margin: 30px auto;
+  background-image: url("./images/42.jpg");
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+  background-blend-mode: multiply;
 }
 
 .App h1 {
